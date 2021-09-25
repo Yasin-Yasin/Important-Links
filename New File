@@ -1,0 +1,5 @@
+format: "\033[38;2;R;G;Bm"
+
+    R is your RED component of your RGB
+    G is your GRREN component of your RGB
+    B is your BLUE component of your RGB
